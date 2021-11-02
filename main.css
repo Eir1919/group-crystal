@@ -83,7 +83,7 @@ body {
     align-items: center;
     font-size: 16px;
     color: #2f3131;
-    background: url("/img/user-avatar.svg") no-repeat left center;
+    background: url("img/user-avatar.svg") no-repeat left center;
     padding-left: 47px;
 }
 
@@ -245,7 +245,7 @@ padding: 0px 20px;
 
 .cta {
     height: 567px;
-    background: url("/img/background.jpg") no-repeat top center;
+    background: url("img/background.jpg") no-repeat top center;
     background-size: cover;
     /* padding-top: 106px; */
 }
@@ -771,7 +771,7 @@ margin-left: 66px;
 .order-img {
     height: 569px;
     width: 867px;
-    background: url("/img/order-left-img.jpg");
+    background: url("img/order-left-img.jpg");
     overflow: hidden;
     background-size: cover;
     background-position: center;
@@ -1127,7 +1127,7 @@ h3 {
 
 .whatsapp {
     height: 615px;
-    background: url(/img/whatsapp-img.jpg) no-repeat top center;
+    background: url(img/whatsapp-img.jpg) no-repeat top center;
     background-size: cover;
 }
 
@@ -1611,7 +1611,7 @@ h3 {
 .contact-item-3 {
     width: 814px;
     height: 100%;
-    background: url(/img/contact-6.jpg);
+    background: url(img/contact-6.jpg);
     background-size: cover;
     background-position: center;
     z-index: -1;
@@ -1775,7 +1775,7 @@ padding-left: 140px;
 
     .user-link {
         font-size: 10px;
-        background: url(/img/user-avatar-tablet.svg) no-repeat left center;
+        background: url(img/user-avatar-tablet.svg) no-repeat left center;
         padding-left: 23px;
         margin-right: 2px;
     }
@@ -1885,7 +1885,7 @@ padding-left: 140px;
 
     .cta {
         height: 323px;
-        background: url(/img/background-tablet.jpg) no-repeat top center;
+        background: url(img/background-tablet.jpg) no-repeat top center;
     }
 
     .cta-contain {
@@ -2420,7 +2420,7 @@ margin-right: -6px;
     .order-img {
         width: 346px;
         height: 225px;
-        background: url(/img/order-left-img-tablet.jpg);
+        background: url(img/order-left-img-tablet.jpg);
         overflow: hidden;
         background-size: cover;
         background-position: center;
@@ -2761,7 +2761,7 @@ margin-left: 6px;
 
     .whatsapp {
     height: 246px;
-    background: url(/img/whatsapp-img-tablet.jpg) no-repeat top center;
+    background: url(img/whatsapp-img-tablet.jpg) no-repeat top center;
     background-size: cover;
     }
 
@@ -3144,7 +3144,7 @@ margin-left: 6px;
         right: 0px;
         top: 1px;
         width: 366px;
-        background: url("/img/contact-6-tablet.jpg");
+        background: url("img/contact-6-tablet.jpg");
     }
 
     /* contact section end */
@@ -3455,7 +3455,7 @@ padding-left: 4px;
 
     .cta {
         height: 327px;
-        background: url(/img/background-mobile.jpg) no-repeat top center;
+        background: url(img/background-mobile.jpg) no-repeat top center;
     }
 
     .cta-contain {
@@ -4032,7 +4032,7 @@ padding-left: 4px;
     .order-img {
         width: 324px;
         height: 228px;
-        background: url(/img/order-left-img-mob.jpg);
+        background: url(img/order-left-img-mob.jpg);
         overflow: hidden;
         background-size: cover;
         background-position: center;
@@ -4367,7 +4367,7 @@ padding-left: 4px;
     .whatsapp-mob {
         display: initial;
         height: 286px;
-        background: url(/img/whatsapp-img-mob.jpg) no-repeat top center;
+        background: url(img/whatsapp-img-mob.jpg) no-repeat top center;
         background-size: cover;
         margin-bottom: 335px;
     }
@@ -4820,7 +4820,7 @@ padding-left: 4px;
         left: 122px;
         top: 1px;
         height: 247px;
-        background: url("/img/contact-6-mob.jpg") no-repeat left center;
+        background: url("img/contact-6-mob.jpg") no-repeat left center;
         z-index: 0;
     }
 
