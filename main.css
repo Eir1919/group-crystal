@@ -4821,9 +4821,10 @@ padding-left: 4px;
     .contact-item-3 {
         position: relative;
         left: 122px;
-        top: 1px;
-        height: 247px;
+        top: 0px;
+        height: 248px;
         background: url("img/contact-6-mob.jpg") no-repeat left center;
+        /* background-size: cover; */
         z-index: 0;
     }
 
